@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{09149BA5-0BFB-F71C-91BB-F8B4E1E4E4D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameFolder/Scripts/HomeScript.cs">
+    <Files>
+      <File FileName="Assets/GameFolder/Scripts/CameraScript.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="Assets/GameFolder/Scripts/GameManager.cs" Line="35" Column="1" />
+      <File FileName="Assets/GameFolder/Scripts/horses.cs" Line="10" Column="2" />
+      <File FileName="Assets/GameFolder/Scripts/Ticket.cs" Line="17" Column="1" />
+      <File FileName="Assets/GameFolder/Scripts/HomeScript.cs" Line="12" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="270afa84-6896-4e34-8563-43483dccc903" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
